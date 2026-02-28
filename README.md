@@ -1,4 +1,5 @@
-# 💧 Water Wise Living
+# 💧 Water Wise Living - https://codeceto.lovable.app/
+
 
 > **🥈 2nd Place — H₂O Hackathon 2025** · San Joaquin County Office of Education · Out of 64 Teams
 
@@ -49,8 +50,6 @@ California faces severe and ongoing water scarcity. Most households lack visibil
 - Direct links to local water authority rebate portals
 
 ---
-<img width="550" height="689" alt="1" src="https://github.com/user-attachments/assets/1f189229-b777-43b9-aa35-dba32462f6d5" />
-
 
 ## 🛠️ Tech Stack
 
